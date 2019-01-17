@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    background-color: #FFFF00;
+    border-style: double; color: #000000
+} 
+
+.vraag{
+    color : #ff0000;
+    background-color: #FFFF00;
+}
+
+.lijst{
+    color : rgb(5, 71, 5);
+    background-color: #ff0000;
+}
+
+ul {
+border-style: dotted dashed solid double; color: #000000;
+
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
